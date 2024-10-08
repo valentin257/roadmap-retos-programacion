@@ -28,7 +28,7 @@ la_variable = "Varió"
 
 #Tipos de datos primitivos del lenguaje pythom 
 """
-Los tipos primitivos o tipos de datos en python son las estructuras de datos más elementales del lenguaje de programación. 
+Los tipos de datos en python son las estructuras de datos más elementales del lenguaje de programación. 
 Son los componentes básicos para tratar todo tipo de datos o variables y contienen valores de datos puros y simples.
 """ 
 #En python pueden ser enteros, flotantes, booleanos y cadenas o strings
