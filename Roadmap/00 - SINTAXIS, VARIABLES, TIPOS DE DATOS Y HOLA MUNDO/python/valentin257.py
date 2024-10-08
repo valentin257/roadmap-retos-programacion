@@ -63,7 +63,7 @@ titulo = "Primera velada"
 
 autor = "Rimbaud"
 
-Texto = """
+texto = """
 Ella estaba desnuda
 y grandes árboles indiscretos
 a los cristales arrojaban su follaje
